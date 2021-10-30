@@ -37,22 +37,10 @@ newImage('assets/well.png', '500px', '425px')
     newItem('assets/staff.png', '600px', '100px')
 
     
-var firstIm = document.createElement("div");
-firstIm.id ="firstImage"
-document.body.appendChild(firstIm)
-document.getElementById("firstImage").style.backgroundImage  = "url('assets/grass.png')";
-document.getElementById("firstImage").style.backgroundSize = "200px";
-document.getElementById("firstImage").style.backgroundRepeat = "repeat-x";
-console.log(firstIm);
-    
 
-//     var firstImg = document.body;
-//     firstImg.style.backgroundImage = "url('assets/grass.png')";
-//    firstImg.style.backgroundRepeat = "no repeat";
-//    var width = window.innerWidth / 2;
-//    console.log(''+width +'px') ;
-//    firstImg.height='5px';
-   //document.body.style.backgroundSize = ''+width +'px';
    
-   //document.body.style.backgroundPosition = 'bottom right'
+
+   
+    
+  
 
